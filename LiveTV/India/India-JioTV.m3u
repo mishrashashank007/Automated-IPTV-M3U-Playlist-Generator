@@ -1,0 +1,509 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="22scope-news" tvg-name="22Scope News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" group-title="News",22Scope News
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="24-news" tvg-name="24 News" tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/84a98-channel-24.jpg" group-title="News",24 News
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:-1 tvg-id="abp-ganga" tvg-name="ABP Ganga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="News",ABP Ganga
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 tvg-id="awaaz-india-tv" tvg-name="Awaaz India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Awaaz_India_TV.png" group-title="News",Awaaz India TV
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 tvg-id="cnbc-tv18-prime-hd" tvg-name="CNBC TV18 Prime HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/CNBC TV18 Prime HD.png" group-title="News",CNBC TV18 Prime HD
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="chardikla-time-tv" tvg-name="Chardikla Time TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="News",Chardikla Time TV
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+#EXTINF:-1 tvg-id="aaryaa-tv" tvg-name="Aaryaa TV Music · TA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="News",Aaryaa TV Music · TA
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="aastha" tvg-name="Aastha Faith · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="News",Aastha Faith · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="aastha-bhajan" tvg-name="Aastha Bhajan Faith · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="News",Aastha Bhajan Faith · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-gujarati" tvg-name="Aastha Gujarati Faith · GU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="News",Aastha Gujarati Faith · GU
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-telugu" tvg-name="Aastha Telugu Faith · TE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="News",Aastha Telugu Faith · TE
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="amrita-tv" tvg-name="Amrita TV Entertainment · ML" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="News",Amrita TV Entertainment · ML
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:News
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="abzy-dhakad" tvg-name="ABZY DHAKAD" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1200604348ABZY_DHAKAD_TV____720x960.webp" group-title="Entertainment",ABZY DHAKAD
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://gdltv-http-proxy.laups1dealsheist.workers.dev/proxy?url=https%3A%2F%2Fd2lk5u59tns74c.cloudfront.net%2Fout%2Fv1%2F4fe6ab07a13543d6bdb2ec63b3e2df44%2Findex.m3u8&k=gdl_http_4f8a2c1b9e3d7f60&ext=.m3u8&useragent=com.freetvinmob.app%2F1.7.0+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.4.1
+#EXTINF:-1 tvg-id="abzy-movies" tvg-name="ABZY Movies" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/434886526ABZY_Movies__TV____720x960.webp" group-title="Entertainment",ABZY Movies
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://gdltv-http-proxy.opassw.workers.dev/proxy?url=https%3A%2F%2Fd3qs3d2rkhfqrt.cloudfront.net%2Fout%2Fv1%2Fdb8d4eca72d64748a00d0631debf542d%2Findex.m3u8&k=gdl_http_4f8a2c1b9e3d7f60&ext=.m3u8&useragent=com.freetvinmob.app%2F1.7.0+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.4.1
+#EXTINF:-1 tvg-id="amrita-tv" tvg-name="Amrita TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Entertainment",Amrita TV
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="anmol-tv" tvg-name="Anmol TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmol.png" group-title="Entertainment",Anmol TV
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://api.freeforall.dev/api/proxy?stream_id=1470862
+#EXTINF:-1 tvg-id="colors-bangla-hd" tvg-name="Colors Bangla HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Entertainment",Colors Bangla HD
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 tvg-id="dd-chhattisgarh" tvg-name="DD CHHATTISGARH" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/518137715DD_CHHATTISGARH___mob___384x512.webp" group-title="Entertainment",DD CHHATTISGARH
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
+#EXTINF:-1 tvg-id="22scope-news" tvg-name="22Scope News News · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" group-title="Entertainment",22Scope News News · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="abp-ganga" tvg-name="ABP Ganga News · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="Entertainment",ABP Ganga News · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 tvg-id="aaryaa-tv" tvg-name="Aaryaa TV Music · TA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Entertainment",Aaryaa TV Music · TA
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="aastha" tvg-name="Aastha Faith · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="Entertainment",Aastha Faith · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="aastha-bhajan" tvg-name="Aastha Bhajan Faith · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Entertainment",Aastha Bhajan Faith · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-gujarati" tvg-name="Aastha Gujarati Faith · GU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Entertainment",Aastha Gujarati Faith · GU
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-telugu" tvg-name="Aastha Telugu Faith · TE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Entertainment",Aastha Telugu Faith · TE
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Entertainment
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="22scope-news" tvg-name="22Scope News News · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" group-title="International",22Scope News News · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:International
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="abp-ganga" tvg-name="ABP Ganga News · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="International",ABP Ganga News · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:International
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 tvg-id="aaryaa-tv" tvg-name="Aaryaa TV Music · TA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="International",Aaryaa TV Music · TA
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:International
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="aastha" tvg-name="Aastha Faith · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="International",Aastha Faith · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:International
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="aastha-bhajan" tvg-name="Aastha Bhajan Faith · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="International",Aastha Bhajan Faith · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:International
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-gujarati" tvg-name="Aastha Gujarati Faith · GU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="International",Aastha Gujarati Faith · GU
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:International
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-telugu" tvg-name="Aastha Telugu Faith · TE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="International",Aastha Telugu Faith · TE
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:International
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="amrita-tv" tvg-name="Amrita TV Entertainment · ML" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="International",Amrita TV Entertainment · ML
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:International
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="aastha" tvg-name="Aastha" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="Faith",Aastha
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Faith
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="aastha-bhajan" tvg-name="Aastha Bhajan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Faith",Aastha Bhajan
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Faith
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-gujarati" tvg-name="Aastha Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Faith",Aastha Gujarati
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Faith
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-telugu" tvg-name="Aastha Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Faith",Aastha Telugu
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Faith
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="22scope-news" tvg-name="22Scope News News · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" group-title="Faith",22Scope News News · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Faith
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="abp-ganga" tvg-name="ABP Ganga News · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="Faith",ABP Ganga News · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Faith
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 tvg-id="aaryaa-tv" tvg-name="Aaryaa TV Music · TA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Faith",Aaryaa TV Music · TA
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Faith
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="amrita-tv" tvg-name="Amrita TV Entertainment · ML" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Faith",Amrita TV Entertainment · ML
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Faith
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="22scope-news" tvg-name="22Scope News News · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" group-title="Kids",22Scope News News · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Kids
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="abp-ganga" tvg-name="ABP Ganga News · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="Kids",ABP Ganga News · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Kids
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 tvg-id="aaryaa-tv" tvg-name="Aaryaa TV Music · TA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Kids",Aaryaa TV Music · TA
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Kids
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="aastha" tvg-name="Aastha Faith · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="Kids",Aastha Faith · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Kids
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="aastha-bhajan" tvg-name="Aastha Bhajan Faith · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Kids",Aastha Bhajan Faith · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Kids
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-gujarati" tvg-name="Aastha Gujarati Faith · GU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Kids",Aastha Gujarati Faith · GU
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Kids
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-telugu" tvg-name="Aastha Telugu Faith · TE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Kids",Aastha Telugu Faith · TE
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Kids
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="amrita-tv" tvg-name="Amrita TV Entertainment · ML" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Kids",Amrita TV Entertainment · ML
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Kids
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="aaryaa-tv" tvg-name="Aaryaa TV Music · TA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Documentary",Aaryaa TV Music · TA
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Documentary
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="aastha" tvg-name="Aastha Faith · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="Documentary",Aastha Faith · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Documentary
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="aastha-bhajan" tvg-name="Aastha Bhajan Faith · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Documentary",Aastha Bhajan Faith · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Documentary
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-gujarati" tvg-name="Aastha Gujarati Faith · GU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Documentary",Aastha Gujarati Faith · GU
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Documentary
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aaryaa-tv" tvg-name="Aaryaa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Music",Aaryaa TV
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Music
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="22scope-news" tvg-name="22Scope News News · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" group-title="Music",22Scope News News · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Music
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="abp-ganga" tvg-name="ABP Ganga News · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="Music",ABP Ganga News · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Music
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 tvg-id="aastha" tvg-name="Aastha Faith · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="Music",Aastha Faith · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Music
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="aastha-gujarati" tvg-name="Aastha Gujarati Faith · GU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Music",Aastha Gujarati Faith · GU
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Music
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aastha-telugu" tvg-name="Aastha Telugu Faith · TE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Music",Aastha Telugu Faith · TE
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Music
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pictures" tvg-name="&pictures" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/&pictures.png" group-title="Movies",&pictures
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Movies
+https://api.freeforall.dev/api/proxy?stream_id=1470461
+#EXTINF:-1 tvg-id="colors-bangla-cinema" tvg-name="Colors Bangla Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movies",Colors Bangla Cinema
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Movies
+https://gdltv-http-proxy.kalua1dealsheist.workers.dev/proxy?url=http%3A%2F%2F103.172.29.30.sslip.io%3A9991%2Fstream%2Fchannelid%2F14180834%3Fprofile%3Dmobarok%2Ffllusonic&k=gdl_http_4f8a2c1b9e3d7f60&ext=.ts
+#EXTINF:-1 tvg-id="abp-ganga" tvg-name="ABP Ganga News · HI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="Movies",ABP Ganga News · HI
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Movies
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 tvg-id="aaryaa-tv" tvg-name="Aaryaa TV Music · TA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Movies",Aaryaa TV Music · TA
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Movies
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="amrita-tv" tvg-name="Amrita TV Entertainment · ML" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Science",Amrita TV Entertainment · ML
+#EXTVLCOPT:http-referrer=https://livetv.lessgooguys.tech/
+#EXTGRP:Science
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+
+# GDLTV-JIOTV-BEGIN
+
+# JioTV channels generated automatically
+
+# ===== JioTV / News =====
+#EXTINF:-1 tvg-id="abp-ganga" tvg-name="ABP Ganga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png" language="hi" group-title="JioTV / News",ABP Ganga
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+
+#EXTINF:-1 tvg-id="22scope-news" tvg-name="22Scope News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" language="hi" group-title="JioTV / News",22Scope News
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="aaj-ki-khabar" tvg-name="Aaj Ki Khabar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zedhbr.png" language="en" group-title="JioTV / News",Aaj Ki Khabar
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a65577ae-f9df-4ba8-bcb5-bcd1f04d06cb/index.m3u8?hdnts=st%3D1791118250~exp%3D1791139850~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa65577ae-f9df-4ba8-bcb5-bcd1f04d06cb%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_349_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_349_-1~hmac%3Dba46bdeca3e8a7e2e8ba4c0c84f0fa3d41899b3927810067136d60f88285dcfb|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="aaj-ki-khabar" tvg-name="Aaj Ki Khabar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zedhbr.png" language="en" group-title="JioTV / News",Aaj Ki Khabar
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a65577ae-f9df-4ba8-bcb5-bcd1f04d06cb/index.m3u8?hdnts=st%3D1791134387~exp%3D1791155987~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa65577ae-f9df-4ba8-bcb5-bcd1f04d06cb%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_349_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_349_-1~hmac%3Daecd1fba3e8e840134294a1ff18d8d0d9989514e30fdaa27f39e9fc8bd5ebd64|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="awaaz-india-tv" tvg-name="Awaaz India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Awaaz_India_TV.png" language="hi" group-title="JioTV / News",Awaaz India TV
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+
+#EXTINF:-1 tvg-id="big-tv" tvg-name="BIG TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/big-tv.png" language="en" group-title="JioTV / News",BIG TV
+https://yuppnimresmum.akamaized.net/120723/smil:bigtv.smil/playlist.m3u8?hdnts=st%3D1791134402~exp%3D1791156002~acl%3D%21%2A%2F120723%2Fsmil%3Abigtv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_133_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_133_-1~hmac%3Db8db2dc4527e8359e878d74b3fd394175fee91e9b8cb94a4ab21a21ba965b507|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="bharat-24" tvg-name="Bharat 24" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-24.png" language="en" group-title="JioTV / News",Bharat 24
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8
+
+#EXTINF:-1 tvg-id="bharat-24" tvg-name="Bharat 24" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-24.png" language="en" group-title="JioTV / News",Bharat 24
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0039890-a9a4-43ac-8561-ca90871c14fc/index.m3u8?hdnts=st%3D1791118252~exp%3D1791139852~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb0039890-a9a4-43ac-8561-ca90871c14fc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_316_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_316_-1~hmac%3D9456d585625d1ee8f9cf00a2915a8c2b255149d25bd5e62d224adde834b2c90c|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="bharat-24" tvg-name="Bharat 24" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-24.png" language="en" group-title="JioTV / News",Bharat 24
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0039890-a9a4-43ac-8561-ca90871c14fc/index.m3u8?hdnts=st%3D1791134388~exp%3D1791155988~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb0039890-a9a4-43ac-8561-ca90871c14fc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_316_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_316_-1~hmac%3D7234c70f4510af13fea817405694533f85592b5ff479f2cdb63f6df50600dea7|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="bansal-news" tvg-name="Bansal News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png" language="en" group-title="JioTV / News",Bansal News
+https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bansal-news" tvg-name="Bansal News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png" language="en" group-title="JioTV / News",Bansal News
+https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8?hdnts=st%3D1791118248~exp%3D1791139848~acl%3D%21%2A%2Ffta%2Fbansalnews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_135_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_135_-1~hmac%3D2f46cc1315cc5f4f952ed91ae7581bc776dace64489922ab8e163ec2f80887f9|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="bansal-news" tvg-name="Bansal News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png" language="en" group-title="JioTV / News",Bansal News
+https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8?hdnts=st%3D1791134385~exp%3D1791155985~acl%3D%21%2A%2Ffta%2Fbansalnews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_135_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_135_-1~hmac%3D4a71906648bc6c8cdd7eb15d3740765e402b8eb2cf533be9b6d72c7870fb00e7|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="chardikla-time-tv" tvg-name="Chardikla Time TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" language="pa" group-title="JioTV / News",Chardikla Time TV
+https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aaj-tak" tvg-name="Aaj Tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" language="en" group-title="JioTV / News",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-id="aaj-tak" tvg-name="Aaj Tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" language="en" group-title="JioTV / News",Aaj Tak
+https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
+
+#EXTINF:-1 tvg-id="aaj-tak" tvg-name="Aaj Tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" language="en" group-title="JioTV / News",Aaj Tak
+https://feeds.intoday.in/aajtak/api/master.m3u8
+
+#EXTINF:-1 tvg-id="aaj-tak" tvg-name="Aaj Tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" language="en" group-title="JioTV / News",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="aaj-tak" tvg-name="Aaj Tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" language="en" group-title="JioTV / News",Aaj Tak
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8?hdnts=st%3D1791118232~exp%3D1791139832~acl%3D%21%2A%2Fvglive-sk-791258%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_248_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_248_-1~hmac%3D07a533a3f6ae4b9d9671eb29a8ff9e3e7189b04dbbc1f0a2c60c689c5644790e|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="aaj-tak" tvg-name="Aaj Tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" language="en" group-title="JioTV / News",Aaj Tak
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8?hdnts=st%3D1791134365~exp%3D1791155965~acl%3D%21%2A%2Fvglive-sk-791258%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_248_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_248_-1~hmac%3Ddc0b1a1514c99a47a4775256289ece4e29b07a5f97a5e93e1ea0bb00b6dcc300|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="i-news" tvg-name="I News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" language="en" group-title="JioTV / News",I News
+https://live.i-news.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="hornbill-tv" tvg-name="Hornbill TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hornbill-tv.png" language="en" group-title="JioTV / News",Hornbill TV
+https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8?hdnts=st%3D1791118226~exp%3D1791139826~acl%3D%21%2A%2Ffta%2Fhornbilltv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_171_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_171_-1~hmac%3Dae1945cdb5b117802e40110bffb99ecaaf60aa7b89d8d60b40872443b9b33174|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="hornbill-tv" tvg-name="Hornbill TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hornbill-tv.png" language="en" group-title="JioTV / News",Hornbill TV
+https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8?hdnts=st%3D1791134362~exp%3D1791155962~acl%3D%21%2A%2Ffta%2Fhornbilltv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_171_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_171_-1~hmac%3D56f6805cf707f94d9b229229926ae1d4b0c31bd0ce8833ef097b70cc016384e7|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="first-india-news" tvg-name="First India News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/First_India_News.png" language="hi" group-title="JioTV / News",First India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="asianet-news" tvg-name="Asianet News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800012RO_20250507T003805SQUARE.png" language="en" group-title="JioTV / News",Asianet News
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="asianet-news" tvg-name="Asianet News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800012RO_20250507T003805SQUARE.png" language="en" group-title="JioTV / News",Asianet News
+https://jmp2.uk/stvp-IN800012RO|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="asianet-news" tvg-name="Asianet News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800012RO_20250507T003805SQUARE.png" language="en" group-title="JioTV / News",Asianet News
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="asianet-news" tvg-name="Asianet News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800012RO_20250507T003805SQUARE.png" language="en" group-title="JioTV / News",Asianet News
+https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
+
+#EXTINF:-1 tvg-id="asianet-news" tvg-name="Asianet News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800012RO_20250507T003805SQUARE.png" language="en" group-title="JioTV / News",Asianet News
+https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abp-majha" tvg-name="ABP Majha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png" language="en" group-title="JioTV / News",ABP Majha
+https://cc-6wo91t9ny3mjn.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6wo91t9ny3mjn/hls/live/2042872/majha/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN4000005BW|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="abp-majha" tvg-name="ABP Majha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png" language="en" group-title="JioTV / News",ABP Majha
+https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
+
+#EXTINF:-1 tvg-id="abp-majha" tvg-name="ABP Majha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png" language="en" group-title="JioTV / News",ABP Majha
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-355289/majha/master.m3u8?hdnts=st%3D1791118257~exp%3D1791139857~acl%3D%21%2A%2Fvglive-sk-355289%2Fmajha%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_227_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_227_-1~hmac%3D362f60fe82ae979b3cd946714c8a91c27869c9e32a14a659e679794e47db32e9|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="abp-majha" tvg-name="ABP Majha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png" language="en" group-title="JioTV / News",ABP Majha
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-355289/majha/master.m3u8?hdnts=st%3D1791134394~exp%3D1791155994~acl%3D%21%2A%2Fvglive-sk-355289%2Fmajha%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_227_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_227_-1~hmac%3D4911858aa5b2dd4c9dd91d7ba9783c9e4f98ea3a871bc3c94a43483370f8c158|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="abp-ananda" tvg-name="ABP Ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" language="en" group-title="JioTV / News",ABP Ananda
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abp-ananda" tvg-name="ABP Ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" language="en" group-title="JioTV / News",ABP Ananda
+https://cc-uml26l35wvj5l.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uml26l35wvj5l/hls/live/2042873/ananda/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN4000006CF|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="abp-ananda" tvg-name="ABP Ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" language="en" group-title="JioTV / News",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+
+#EXTINF:-1 tvg-id="abp-ananda" tvg-name="ABP Ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" language="en" group-title="JioTV / News",ABP Ananda
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-664562/ananda/master.m3u8?hdnts=st%3D1791118260~exp%3D1791139860~acl%3D%21%2A%2Fvglive-sk-664562%2Fananda%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_226_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_226_-1~hmac%3Dd09a1e043913978277cbeeac0c5eff4282e4066f65437c1911a783b05d5129a3|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="abp-ananda" tvg-name="ABP Ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" language="en" group-title="JioTV / News",ABP Ananda
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-664562/ananda/master.m3u8?hdnts=st%3D1791134397~exp%3D1791155997~acl%3D%21%2A%2Fvglive-sk-664562%2Fananda%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_226_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_226_-1~hmac%3D2713514a146ac34754bf48ed694650ffeb14c820783cb408c03cf48d92815e73|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="abp-asmita" tvg-name="ABP Asmita" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ymbgfv.png" language="en" group-title="JioTV / News",ABP Asmita
+https://amg01448-samsungin-abpasmita-samsungin-ad-ol.amagi.tv/playlist/amg01448-samsungin-abpasmita-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="abp-asmita" tvg-name="ABP Asmita" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ymbgfv.png" language="en" group-title="JioTV / News",ABP Asmita
+https://jmp2.uk/stvp-INBD400010BD|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="abp-asmita" tvg-name="ABP Asmita" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ymbgfv.png" language="en" group-title="JioTV / News",ABP Asmita
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
+
+#EXTINF:-1 tvg-id="abp-asmita" tvg-name="ABP Asmita" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ymbgfv.png" language="en" group-title="JioTV / News",ABP Asmita
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-818459/asmita/master.m3u8?hdnts=st%3D1791118272~exp%3D1791139872~acl%3D%21%2A%2Fvglive-sk-818459%2Fasmita%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_228_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_228_-1~hmac%3D0abefdd1b4e5eabc1904a79227f2ff59c53a8052eb8d15e6381aba105969fc57|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="abp-asmita" tvg-name="ABP Asmita" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ymbgfv.png" language="en" group-title="JioTV / News",ABP Asmita
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-818459/asmita/master.m3u8?hdnts=st%3D1791134408~exp%3D1791156008~acl%3D%21%2A%2Fvglive-sk-818459%2Fasmita%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_228_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_228_-1~hmac%3Dde8fd6ed742359d0707e5cf24e3f3cdd2801d9b936041ee8602c4d9e2f60d452|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://amg00222-amg00222c4-amgplt0019.playout.now3.amagi.tv/playlist.m3u8?GdprConsent=0&app_bundle=&app_cat=IAB1-22&app_domain=&app_name=&app_store_url=&app_version=%7B%7BAppVersion%7D%7D&coppa=0&device_make=&device_model=&did=&dnt=&gdpr=0&ifa_type=&network_name=tinykernel&us_privacy=1YN-
+
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://amg00222-amg00222c4-amgplt0006.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://amg00222-amg00222c4-amgplt0011.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://amg00222-amg00222c4-amgplt0007.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://hls.assadikb.workers.dev/?url=https://babu.khelalive.top/vids/ix/stream.m3u8?id=al-jazeera|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+
+# ===== JioTV / Faith =====
+#EXTINF:-1 tvg-id="village-tv" tvg-name="Village TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png" language="ta" group-title="JioTV / Faith",Village TV
+https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+
+# ===== JioTV / Kids =====
+#EXTINF:-1 tvg-id="nick-junior" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" language="en" group-title="JioTV / Kids",Nick Junior
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+
+#EXTINF:-1 tvg-id="green-gold-tv" tvg-name="Green Gold TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv.png" language="en" group-title="JioTV / Kids",Green Gold TV
+https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN4000625P&coppa=1|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="cartoon-network-hindi" tvg-name="Cartoon Network Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHindi.png" language="en" group-title="JioTV / Kids",Cartoon Network Hindi
+https://live-th10.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=ibruDlwcarLe4hNycOeEqeww9RLddOcBkRHP5OU3&secret=d85c5f96f376280a040d699f3ebde938&time=1771648839
+
+#EXTINF:-1 tvg-id="cartoon-network-hindi" tvg-name="Cartoon Network Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHindi.png" language="en" group-title="JioTV / Kids",Cartoon Network Hindi
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
+#EXTINF:-1 tvg-id="cartoon-network-hindi" tvg-name="Cartoon Network Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHindi.png" language="en" group-title="JioTV / Kids",Cartoon Network Hindi
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cartoon-network-hindi" tvg-name="Cartoon Network Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHindi.png" language="en" group-title="JioTV / Kids",Cartoon Network Hindi
+http://209.61.12.77:9000/play/a090/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney Channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg" language="en" group-title="JioTV / Kids",Disney Channel
+http://209.61.12.77:9000/play/a09s/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney Channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg" language="en" group-title="JioTV / Kids",Disney Channel
+http://95.143.42.59:1234/stream/fubochannels/disneychannel/master.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nickelodeon-ca.png" language="en" group-title="JioTV / Kids",Nickelodeon
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nickelodeon-ca.png" language="en" group-title="JioTV / Kids",Nickelodeon
+http://198.58.104.90:8989/oxygen/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nickelodeon-ca.png" language="en" group-title="JioTV / Kids",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nickelodeon-ca.png" language="en" group-title="JioTV / Kids",Nickelodeon
+http://209.61.12.77:9000/play/a09a/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nickelodeon-ca.png" language="en" group-title="JioTV / Kids",Nickelodeon
+http://team-tv.co:81/nick/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nickelodeon-ca.png" language="en" group-title="JioTV / Kids",Nickelodeon
+http://95.143.42.59:1234/stream/fubochannels/nickelodeon/master.m3u8
+
+# ===== JioTV / Movies =====
+#EXTINF:-1 tvg-id="mahua-play" tvg-name="Mahua Play" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mahua-play.png" language="en" group-title="JioTV / Movies",Mahua Play
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0ff8912e-d0e7-4e38-8c2b-6ba85413b484/index.m3u8?hdnts=st%3D1791118339~exp%3D1791139939~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F0ff8912e-d0e7-4e38-8c2b-6ba85413b484%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_346_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_346_-1~hmac%3De745131afa9798772de005493a2b082020a102bf7275e4e25e025c78d272e48b|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="mahua-play" tvg-name="Mahua Play" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mahua-play.png" language="en" group-title="JioTV / Movies",Mahua Play
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0ff8912e-d0e7-4e38-8c2b-6ba85413b484/index.m3u8?hdnts=st%3D1791134466~exp%3D1791156066~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F0ff8912e-d0e7-4e38-8c2b-6ba85413b484%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_346_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_346_-1~hmac%3Dd0eb4e1d4d281f174a8ba5788a9d57fc9ad77a2c573018862fb47392d580dacf|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="roja-movies" tvg-name="Roja Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" language="ta" group-title="JioTV / Movies",Roja Movies
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+#EXTINF:-1 tvg-id="pocket-films" tvg-name="Pocket Films" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pocket-films.png" language="en" group-title="JioTV / Movies",Pocket Films
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/playlist.m3u8?hdnts=st%3D1791118338~exp%3D1791139938~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb8ada260-bb81-472b-b7c1-3a79213a84b8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_318_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_318_-1~hmac%3Dd2ceac40eee238eef4f96ac0c25f965276d6892117d8079a91b82dfd520533fa|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="pocket-films" tvg-name="Pocket Films" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pocket-films.png" language="en" group-title="JioTV / Movies",Pocket Films
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/playlist.m3u8?hdnts=st%3D1791134464~exp%3D1791156064~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb8ada260-bb81-472b-b7c1-3a79213a84b8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_318_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_318_-1~hmac%3Df7710efc90a57cf9ae00048b304c9ab7fee6010104b84f4d2ad7028a9d8f1bac|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="sana-tv" tvg-name="Sana TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sana-tv.png" language="en" group-title="JioTV / Movies",Sana TV
+https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8?hdnts=st%3D1791118341~exp%3D1791139941~acl%3D%21%2A%2Fus%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb6d9e864-ec16-410a-804d-ccf8f720bfaa%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_329_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_329_-1~hmac%3D4eba82138f7917dd7a04e752894b21c0b2b99ef98b1ebdac95a4b9e36e8105a0|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="sana-tv" tvg-name="Sana TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sana-tv.png" language="en" group-title="JioTV / Movies",Sana TV
+https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8?hdnts=st%3D1791134466~exp%3D1791156066~acl%3D%21%2A%2Fus%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb6d9e864-ec16-410a-804d-ccf8f720bfaa%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_329_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_329_-1~hmac%3D215ee1b8783645767103ce82e0b894daeba7ec36bbcc80ad1fad191d8fea946d|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="tabbar-hits" tvg-name="Tabbar Hits" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tabbar-hits.png" language="en" group-title="JioTV / Movies",Tabbar Hits
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8?hdnts=st%3D1791118339~exp%3D1791139939~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe11b0319-52e8-4190-ab03-3931cc68eac9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_301_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.172.237.208_yuppfast_2_channel_301_-1~hmac%3D30a191b27f4b8d2f65fd7f5d3b20c5348ffe3c3514709133b34e3d3fa5af1455|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="tabbar-hits" tvg-name="Tabbar Hits" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tabbar-hits.png" language="en" group-title="JioTV / Movies",Tabbar Hits
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8?hdnts=st%3D1791134465~exp%3D1791156065~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe11b0319-52e8-4190-ab03-3931cc68eac9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_301_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.81.6.243_yuppfast_2_channel_301_-1~hmac%3D9fcaa2f0639cdbc1066cb44c90259887db221b812d9ade0dc316b77cf4e8af8b|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="nh-bollyflix" tvg-name="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20251106T195128SQUARE.png" language="en" group-title="JioTV / Movies",NH BollyFlix
+https://d1bnb20pevkrom.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-8xs28buuqfw19/BollyFlix_IN.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN46000140Q&ads.ssai_vendor=SSSLIVE&pb_type=pb-8xs28buuqfw19_cloudfront|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 tvg-id="nh-bollyflix" tvg-name="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20251106T195128SQUARE.png" language="en" group-title="JioTV / Movies",NH BollyFlix
+https://jmp2.uk/stvp-IN46000140Q|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+# ===== JioTV / Local News =====
+#EXTINF:-1 tvg-id="abc-news" tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" language="en" group-title="JioTV / Local News",ABC NEWS
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+
+#EXTINF:-1 tvg-id="abc-news" tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" language="en" group-title="JioTV / Local News",ABC NEWS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/7c7a6abe4d604faca4d6b91f6567558f/index.m3u8?hdnea=st=1791141251~exp=1791142151~acl=/*~hmac=3676f6824d1443934b84cd892ece09b88ea31afc534fedc02ade8e582f1d8f14
+
+#EXTINF:-1 tvg-id="abc-news" tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" language="en" group-title="JioTV / Local News",ABC NEWS
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7bf3d9c60704e6/index.mpd
+
+#EXTINF:-1 tvg-id="abc-news" tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" language="en" group-title="JioTV / Local News",ABC NEWS
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+# ===== JioTV / Broadcast =====
+#EXTINF:-1 tvg-id="dd-bharati" tvg-name="DD bharati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png" language="hi" group-title="JioTV / Broadcast",DD bharati
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti2/default/main.mpd
+
+# GDLTV-JIOTV-END
