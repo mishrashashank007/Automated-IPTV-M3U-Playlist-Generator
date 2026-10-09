@@ -267,53 +267,50 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
 #EXTINF:-1 tvg-id="22scope-news" tvg-name="22Scope News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" language="hi" group-title="JioTV / News",22Scope News
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-id="aaj-ki-khabar" tvg-name="Aaj Ki Khabar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zedhbr.png" language="en" group-title="JioTV / News",Aaj Ki Khabar
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a65577ae-f9df-4ba8-bcb5-bcd1f04d06cb/index.m3u8?hdnts=st%3D1791478534~exp%3D1791500134~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa65577ae-f9df-4ba8-bcb5-bcd1f04d06cb%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_349_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_349_-1~hmac%3D0569ed6aeaf4cb58a74db144821d4d37419f9168ea644d91373f6bf09564101f|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="aaj-ki-khabar" tvg-name="Aaj Ki Khabar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zedhbr.png" language="en" group-title="JioTV / News",Aaj Ki Khabar
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a65577ae-f9df-4ba8-bcb5-bcd1f04d06cb/index.m3u8?hdnts=st%3D1791510386~exp%3D1791531986~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa65577ae-f9df-4ba8-bcb5-bcd1f04d06cb%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_349_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_349_-1~hmac%3D73150f2415d1410c4c1d71698928f778366c0b40de1425e8335536f61619a047|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
 #EXTINF:-1 tvg-id="anb-news" tvg-name="ANB News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ANBNews.png" language="hi" group-title="JioTV / News",ANB News
 https://tvsen6.aynaott.com/H5aeGVSj/index.m3u8?e=1784102558&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d854e648379933601524b35077263247|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="aaj-ki-khabar" tvg-name="Aaj Ki Khabar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zedhbr.png" language="en" group-title="JioTV / News",Aaj Ki Khabar
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a65577ae-f9df-4ba8-bcb5-bcd1f04d06cb/index.m3u8?hdnts=st%3D1791451616~exp%3D1791473216~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa65577ae-f9df-4ba8-bcb5-bcd1f04d06cb%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_349_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_349_-1~hmac%3Da3ce3824c73445515bfc33a13c5ecd95669a57a02bcca9a4abfa275e7eccec3c|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="aaj-ki-khabar" tvg-name="Aaj Ki Khabar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zedhbr.png" language="en" group-title="JioTV / News",Aaj Ki Khabar
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a65577ae-f9df-4ba8-bcb5-bcd1f04d06cb/index.m3u8?hdnts=st%3D1791496268~exp%3D1791517868~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa65577ae-f9df-4ba8-bcb5-bcd1f04d06cb%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_349_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_349_-1~hmac%3D1e873aa5afae79057da3296088b49a43216d227bcc828e984d26b61298ce82eb|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="awaaz-india-tv" tvg-name="Awaaz India TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Awaaz_India_TV.png" language="hi" group-title="JioTV / News",Awaaz India TV
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
 #EXTINF:-1 tvg-id="big-tv" tvg-name="BIG TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/big-tv.png" language="en" group-title="JioTV / News",BIG TV
-https://yuppnimresmum.akamaized.net/120723/smil:bigtv.smil/playlist.m3u8?hdnts=st%3D1791496293~exp%3D1791517893~acl%3D%21%2A%2F120723%2Fsmil%3Abigtv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_133_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_133_-1~hmac%3D2b01be749afb5c78770eb1f823e2b0f67f3d9eb5b1f1d8facdc8da30b0fdec1a|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppnimresmum.akamaized.net/120723/smil:bigtv.smil/playlist.m3u8?hdnts=st%3D1791510407~exp%3D1791532007~acl%3D%21%2A%2F120723%2Fsmil%3Abigtv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_133_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_133_-1~hmac%3D34115cc3a3c5e0bc8c9698976e5ae28666b1258c0ed532613f70b82291a25aab|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="bharat-24" tvg-name="Bharat 24" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-24.png" language="en" group-title="JioTV / News",Bharat 24
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8
 
 #EXTINF:-1 tvg-id="bharat-24" tvg-name="Bharat 24" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-24.png" language="en" group-title="JioTV / News",Bharat 24
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0039890-a9a4-43ac-8561-ca90871c14fc/index.m3u8?hdnts=st%3D1791451619~exp%3D1791473219~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb0039890-a9a4-43ac-8561-ca90871c14fc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_316_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_316_-1~hmac%3D46f0a6f33fca1b10337b50a1e4ba4c7f0e9e19a8c528d2e94699e3379ad9b9a6|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0039890-a9a4-43ac-8561-ca90871c14fc/index.m3u8?hdnts=st%3D1791478536~exp%3D1791500136~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb0039890-a9a4-43ac-8561-ca90871c14fc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_316_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_316_-1~hmac%3D99f2b7ff6dba602e06edded569a94bf624fec5683754f5be1b8f5860133db7b2|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="bharat-24" tvg-name="Bharat 24" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-24.png" language="en" group-title="JioTV / News",Bharat 24
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0039890-a9a4-43ac-8561-ca90871c14fc/index.m3u8?hdnts=st%3D1791496269~exp%3D1791517869~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb0039890-a9a4-43ac-8561-ca90871c14fc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_316_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_316_-1~hmac%3Ddb0d61b2c82b349d3d0ae6b60b4904a9a64b613e1fc093fe41580630e85bf0f9|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b0039890-a9a4-43ac-8561-ca90871c14fc/index.m3u8?hdnts=st%3D1791510387~exp%3D1791531987~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb0039890-a9a4-43ac-8561-ca90871c14fc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_316_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_316_-1~hmac%3D42526a3d008696d50299af39646ea4c12e36809f3d21971f7bd37e75826f7216|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="c-news-bharat" tvg-name="C News Bharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/c-news-bharat.png" language="en" group-title="JioTV / News",C News Bharat
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0d0b4ad9-be6e-43d2-b407-a8386a7adbc3/index.m3u8?hdnts=st%3D1791478535~exp%3D1791500135~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F0d0b4ad9-be6e-43d2-b407-a8386a7adbc3%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_350_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_350_-1~hmac%3Dabfccf6c57b77e97aa377005d3f13fae7fd4659bee966fecbcd1dfea85830b2c|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="c-news-bharat" tvg-name="C News Bharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/c-news-bharat.png" language="en" group-title="JioTV / News",C News Bharat
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0d0b4ad9-be6e-43d2-b407-a8386a7adbc3/index.m3u8?hdnts=st%3D1791510386~exp%3D1791531986~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F0d0b4ad9-be6e-43d2-b407-a8386a7adbc3%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_350_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_350_-1~hmac%3D14ac3061042d57bfdbadd1e41ec63a1e940f22b01ae4ae846cdc8d1879815414|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="bansal-news" tvg-name="Bansal News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png" language="en" group-title="JioTV / News",Bansal News
-https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8?hdnts=st%3D1791451613~exp%3D1791473213~acl%3D%21%2A%2Ffta%2Fbansalnews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_135_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_135_-1~hmac%3D89a280febd94cd0fcc5a1376907bcc52825ffc8ec30dfa1f5a8d4763fcb37e19|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8?hdnts=st%3D1791478532~exp%3D1791500132~acl%3D%21%2A%2Ffta%2Fbansalnews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_135_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_135_-1~hmac%3Dec8488917681ff88f5e413f32f196659b2de4a238d0c8fa7d9b5a2ec5635c137|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="bansal-news" tvg-name="Bansal News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png" language="en" group-title="JioTV / News",Bansal News
-https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8?hdnts=st%3D1791496265~exp%3D1791517865~acl%3D%21%2A%2Ffta%2Fbansalnews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_135_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_135_-1~hmac%3Dc1a4227a82b348f8e7f0aa6970e16756a9c144eb2b0f32a71e17070d9ded19a5|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="bharat-samachar" tvg-name="Bharat Samachar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.png" language="en" group-title="JioTV / News",Bharat Samachar
-https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
-
-#EXTINF:-1 tvg-id="bharat-samachar" tvg-name="Bharat Samachar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.png" language="en" group-title="JioTV / News",Bharat Samachar
-https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8?hdnts=st%3D1791451607~exp%3D1791473207~acl%3D%21%2A%2Ffta%2Fbharatsamachar%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_159_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_159_-1~hmac%3Db93d40cdd76cbf87ca9e397e80f6992a797df6c5512270dc6f2eb643da242a60|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="bharat-samachar" tvg-name="Bharat Samachar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.png" language="en" group-title="JioTV / News",Bharat Samachar
-https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8?hdnts=st%3D1791496261~exp%3D1791517861~acl%3D%21%2A%2Ffta%2Fbharatsamachar%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_159_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_159_-1~hmac%3D102d68e7937c8b02070936611760179b431c64420062d54a5f7b1383ae11d091|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8?hdnts=st%3D1791510382~exp%3D1791531982~acl%3D%21%2A%2Ffta%2Fbansalnews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_135_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_135_-1~hmac%3Dfd2440b557ff339e29d3851a3309cb50a0a409a355102d1796b5d0c2435cb4d1|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="bharat-express" tvg-name="Bharat Express" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-express.png" language="en" group-title="JioTV / News",Bharat Express
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
 
 #EXTINF:-1 tvg-id="bharat-express" tvg-name="Bharat Express" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-express.png" language="en" group-title="JioTV / News",Bharat Express
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e029a22c-cbd9-493b-9b37-e7f0cabe78cc/index.m3u8?hdnts=st%3D1791451626~exp%3D1791473226~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe029a22c-cbd9-493b-9b37-e7f0cabe78cc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_340_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_340_-1~hmac%3D77d1c6bd98edec99975c1cb4d6b766e78c2623a2c97ff6f41f5c84a39cfa2e51|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e029a22c-cbd9-493b-9b37-e7f0cabe78cc/index.m3u8?hdnts=st%3D1791478542~exp%3D1791500142~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe029a22c-cbd9-493b-9b37-e7f0cabe78cc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_340_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_340_-1~hmac%3D3c29d6e1ee1667c531391b23623f129a1af11adb3f99cc0df408b9830f148eee|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="bharat-express" tvg-name="Bharat Express" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bharat-express.png" language="en" group-title="JioTV / News",Bharat Express
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e029a22c-cbd9-493b-9b37-e7f0cabe78cc/index.m3u8?hdnts=st%3D1791496277~exp%3D1791517877~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe029a22c-cbd9-493b-9b37-e7f0cabe78cc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_340_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_340_-1~hmac%3Da262bbfd0712ad4bf1bf8338ffa82faa2c4e0adadb4863f12b4b0b14fb85c7ad|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e029a22c-cbd9-493b-9b37-e7f0cabe78cc/index.m3u8?hdnts=st%3D1791510393~exp%3D1791531993~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe029a22c-cbd9-493b-9b37-e7f0cabe78cc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_340_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_340_-1~hmac%3D966ccdec03919107db08681cea8e60a215835b22eb2a04cabda1f3b04d399220|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="aaj-tak" tvg-name="Aaj Tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" language="en" group-title="JioTV / News",Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -328,25 +325,10 @@ https://feeds.intoday.in/aajtak/api/master.m3u8
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="aaj-tak" tvg-name="Aaj Tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" language="en" group-title="JioTV / News",Aaj Tak
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8?hdnts=st%3D1791451592~exp%3D1791473192~acl%3D%21%2A%2Fvglive-sk-791258%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_248_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_248_-1~hmac%3D82867451be74eaab9bd06fe255d89a051f9ef9f7374faea70620f9ecaa925b28|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8?hdnts=st%3D1791478510~exp%3D1791500110~acl%3D%21%2A%2Fvglive-sk-791258%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_248_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_248_-1~hmac%3D826403f18e49ccce7138e0e18ee6a4e0b0a2eb2c30353208df25020c58d9bcc3|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="aaj-tak" tvg-name="Aaj Tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png" language="en" group-title="JioTV / News",Aaj Tak
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8?hdnts=st%3D1791496247~exp%3D1791517847~acl%3D%21%2A%2Fvglive-sk-791258%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_248_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_248_-1~hmac%3Dbbefb2aeb3df1a352bdfc3803af5ef301b818553c966b95790c224bdd7abdac0|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="c-news-bharat" tvg-name="C News Bharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/c-news-bharat.png" language="en" group-title="JioTV / News",C News Bharat
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0d0b4ad9-be6e-43d2-b407-a8386a7adbc3/index.m3u8?hdnts=st%3D1791451617~exp%3D1791473217~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F0d0b4ad9-be6e-43d2-b407-a8386a7adbc3%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_350_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_350_-1~hmac%3D12ee2147d9f463791751410c1a84b8ca6fb4c434638d9d33d5925374644c37c3|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="c-news-bharat" tvg-name="C News Bharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/c-news-bharat.png" language="en" group-title="JioTV / News",C News Bharat
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0d0b4ad9-be6e-43d2-b407-a8386a7adbc3/index.m3u8?hdnts=st%3D1791496269~exp%3D1791517869~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F0d0b4ad9-be6e-43d2-b407-a8386a7adbc3%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_350_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_350_-1~hmac%3D4b949fc2ab58dc61218dde6720e7d94641cd798c1b48ae7849618661170bb6a6|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="cvr-news" tvg-name="CVR News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vncsik.png" language="en" group-title="JioTV / News",CVR News
-https://yuppnimrestreammum.akamaized.net/181224/smil:cvrtelugu.smil/playlist.m3u8?hdnts=st%3D1791496294~exp%3D1791517894~acl%3D%21%2A%2F181224%2Fsmil%3Acvrtelugu.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_139_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_139_-1~hmac%3De32c611ecb82a608f201afc2e86b7c463a093d2880b485b97fcfe90c71edf025|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="calcutta-news" tvg-name="Calcutta News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/calcutta-news.png" language="en" group-title="JioTV / News",Calcutta News
-https://d1msejlow1t3l4.cloudfront.net/fta/calcuttanews/playlist.m3u8?hdnts=st%3D1791451637~exp%3D1791473237~acl%3D%21%2A%2Ffta%2Fcalcuttanews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_116_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_116_-1~hmac%3De3ea824fe4c34fad1ca85ecc5d4686653f07d412ad677ef6f446dfd24524ae3f|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="calcutta-news" tvg-name="Calcutta News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/calcutta-news.png" language="en" group-title="JioTV / News",Calcutta News
-https://d1msejlow1t3l4.cloudfront.net/fta/calcuttanews/playlist.m3u8?hdnts=st%3D1791496283~exp%3D1791517883~acl%3D%21%2A%2Ffta%2Fcalcuttanews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_116_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_116_-1~hmac%3D030675953bcfd2aae58376d17e3a08196825ad381fca2f7672aa7c680f326da2|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8?hdnts=st%3D1791510366~exp%3D1791531966~acl%3D%21%2A%2Fvglive-sk-791258%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_248_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_248_-1~hmac%3Dfdef3b44689c127addfdef8549fed2827ab8c81bd20796e94f5f9ab50462238f|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="abp-majha" tvg-name="ABP Majha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png" language="en" group-title="JioTV / News",ABP Majha
 https://cc-6wo91t9ny3mjn.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6wo91t9ny3mjn/hls/live/2042872/majha/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN4000005BW|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -355,10 +337,16 @@ https://cc-6wo91t9ny3mjn.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
 
 #EXTINF:-1 tvg-id="abp-majha" tvg-name="ABP Majha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png" language="en" group-title="JioTV / News",ABP Majha
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-355289/majha/master.m3u8?hdnts=st%3D1791451627~exp%3D1791473227~acl%3D%21%2A%2Fvglive-sk-355289%2Fmajha%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_227_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_227_-1~hmac%3D104f05ebedf4032f1e0dbbe38497d20cf1aab1be26d9f9e03fd1af69a0c994d9|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-355289/majha/master.m3u8?hdnts=st%3D1791478543~exp%3D1791500143~acl%3D%21%2A%2Fvglive-sk-355289%2Fmajha%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_227_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_227_-1~hmac%3D1bb4bf5a72072ddaa7192ac1e088bad9b2795f1c4fb475ea4e9ead1288f5ad66|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="abp-majha" tvg-name="ABP Majha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png" language="en" group-title="JioTV / News",ABP Majha
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-355289/majha/master.m3u8?hdnts=st%3D1791496277~exp%3D1791517877~acl%3D%21%2A%2Fvglive-sk-355289%2Fmajha%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_227_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_227_-1~hmac%3Da131d3708148981fb838200fdf587a76a12a226319e711ffd9946513722a7b3c|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-355289/majha/master.m3u8?hdnts=st%3D1791510394~exp%3D1791531994~acl%3D%21%2A%2Fvglive-sk-355289%2Fmajha%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_227_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_227_-1~hmac%3D4710d4053a6538e79bcd139a551a284084a589ff647b6fce3fcf59f5813a5a48|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="jai-maharashtra" tvg-name="Jai Maharashtra" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png" language="en" group-title="JioTV / News",Jai Maharashtra
+https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8?hdnts=st%3D1791478544~exp%3D1791500144~acl%3D%21%2A%2Ffta%2Fjaimaharashtra%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_162_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_162_-1~hmac%3D3f29ea4d3e159e1cca359f57ac4d7ef60784178f7fcb586f7ca1977509e3d16e|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="jai-maharashtra" tvg-name="Jai Maharashtra" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png" language="en" group-title="JioTV / News",Jai Maharashtra
+https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8?hdnts=st%3D1791510396~exp%3D1791531996~acl%3D%21%2A%2Ffta%2Fjaimaharashtra%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_162_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_162_-1~hmac%3Dfc19d09930dc9dbe71476700dfcfa9cca859ffea43885960e0972efc6a512b54|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="asianet-news" tvg-name="Asianet News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800012RO_20250507T003805SQUARE.png" language="en" group-title="JioTV / News",Asianet News
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -385,10 +373,10 @@ https://jmp2.uk/stvp-INBD400010BD|Referer=https://pixelsport.tv/&User-Agent=Mozi
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
 
 #EXTINF:-1 tvg-id="abp-asmita" tvg-name="ABP Asmita" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ymbgfv.png" language="en" group-title="JioTV / News",ABP Asmita
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-818459/asmita/master.m3u8?hdnts=st%3D1791451654~exp%3D1791473254~acl%3D%21%2A%2Fvglive-sk-818459%2Fasmita%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_228_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_228_-1~hmac%3D453326a97eed5092d6bc79d3d835b5d20ebaf116e4afdb94cf95e9c8fd0b831b|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-818459/asmita/master.m3u8?hdnts=st%3D1791478564~exp%3D1791500164~acl%3D%21%2A%2Fvglive-sk-818459%2Fasmita%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_228_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_228_-1~hmac%3D976459bbdf9cba9ff1024122c4e3116f6359bece0c40b5b45ff62d8552daf85f|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="abp-asmita" tvg-name="ABP Asmita" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ymbgfv.png" language="en" group-title="JioTV / News",ABP Asmita
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-818459/asmita/master.m3u8?hdnts=st%3D1791496298~exp%3D1791517898~acl%3D%21%2A%2Fvglive-sk-818459%2Fasmita%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_228_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_228_-1~hmac%3Ded198490748442ec4d39dd75d8dc13bbc2f18461d5a150bed36576810bc4be78|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-818459/asmita/master.m3u8?hdnts=st%3D1791510414~exp%3D1791532014~acl%3D%21%2A%2Fvglive-sk-818459%2Fasmita%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_228_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_228_-1~hmac%3D5e8176e0a52c1ff63301baae684866022bda66a395a2e0245d698b093b507c07|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="abp-ananda" tvg-name="ABP Ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" language="en" group-title="JioTV / News",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
@@ -400,37 +388,16 @@ https://cc-uml26l35wvj5l.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 
 #EXTINF:-1 tvg-id="abp-ananda" tvg-name="ABP Ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" language="en" group-title="JioTV / News",ABP Ananda
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-664562/ananda/master.m3u8?hdnts=st%3D1791451635~exp%3D1791473235~acl%3D%21%2A%2Fvglive-sk-664562%2Fananda%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_226_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_226_-1~hmac%3Daf171ff071500852c1d4795d300d5b4ad1b3058909fb3bd865046d93ebaff10b|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-664562/ananda/master.m3u8?hdnts=st%3D1791478546~exp%3D1791500146~acl%3D%21%2A%2Fvglive-sk-664562%2Fananda%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_226_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.221.68.206_yuppfast_2_channel_226_-1~hmac%3D1488e60e0ea4ecfbf35cbb1f45f84da8d6bfac9b2d971279d10ebeb0c096e475|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="abp-ananda" tvg-name="ABP Ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png" language="en" group-title="JioTV / News",ABP Ananda
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-664562/ananda/master.m3u8?hdnts=st%3D1791496281~exp%3D1791517881~acl%3D%21%2A%2Fvglive-sk-664562%2Fananda%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_226_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_226_-1~hmac%3D04b587e2e21ab6f214c4bf69ff183bd854b08657e7627ab3a9391c72137fab3c|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-664562/ananda/master.m3u8?hdnts=st%3D1791510400~exp%3D1791532000~acl%3D%21%2A%2Fvglive-sk-664562%2Fananda%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_226_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_40.124.163.114_yuppfast_2_channel_226_-1~hmac%3D43c6e1d0b004c74c5ec5da4827684410590706b0ac45389fb623438ee5832b59|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="cnn-news18" tvg-name="CNN News18" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300009QZ_20240131T032448SQUARE.png_20240131032449.png" language="en" group-title="JioTV / News",CNN News18
 https://amg01448-samsungin-cnnnewsnw18-samsungin-ad-gv.amagi.tv/playlist/amg01448-samsungin-cnnnewsnw18-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 #EXTINF:-1 tvg-id="cnn-news18" tvg-name="CNN News18" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300009QZ_20240131T032448SQUARE.png_20240131032449.png" language="en" group-title="JioTV / News",CNN News18
 https://jmp2.uk/stvp-INBD1300009QZ|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
-https://amg00222-amg00222c4-amgplt0019.playout.now3.amagi.tv/playlist.m3u8?GdprConsent=0&app_bundle=&app_cat=IAB1-22&app_domain=&app_name=&app_store_url=&app_version=%7B%7BAppVersion%7D%7D&coppa=0&device_make=&device_model=&did=&dnt=&gdpr=0&ifa_type=&network_name=tinykernel&us_privacy=1YN-
-
-#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
-https://amg00222-amg00222c4-amgplt0006.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
-https://amg00222-amg00222c4-amgplt0011.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
-https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
-https://amg00222-amg00222c4-amgplt0007.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
-https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
-https://hls.assadikb.workers.dev/?url=https://babu.khelalive.top/vids/ix/stream.m3u8?id=al-jazeera|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" language="en" group-title="JioTV / News",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
@@ -472,351 +439,96 @@ http://193.239.187.102/CNN/index.m3u8
 https://tvsen6.aynaott.com/cnn/index.m3u8?e=1784102537&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3d319d99045811bace569a7cc2885eb3|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" language="en" group-title="JioTV / News",CNN
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb492/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkyOjE3OTE0OTY3MzcxMzY6Y2RubGl2ZXR2LnR2OjQ5MDYxMTBlMjVkOTdlZGIuMjU3ZjdkNmU5MjVjZTJkZGQ5MWZmODdiMzg0ODJlNTI1ZWU1ZWM0NWE5ZmY3ODkyYzZhM2ZjZjRkMDNmNWFhNw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Origin=https://cdnlivetv.tv/api/v1/channels/player/?name=CNN&code=us&user=cdnlivetv&plan=free&Referer=https://cdnlivetv.tv/api/v1/channels/player/?name=CNN&code=us&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb490/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkwOjE3OTE1MTUxNTgxNjY6Y2RubGl2ZXR2LnR2OmViZGNhNTQwYzU5NzgxNTMuMmM1NzQ1NDJlMWU5YmMxY2Y5NTNiM2JlZGM2ZDY4MGI1ZWU3OTNhM2I0YTU2MTJkNDQ4MzZkM2JmMzQ0M2Q5Mw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Origin=https://cdnlivetv.tv/api/v1/channels/player/?name=CNN&code=us&user=cdnlivetv&plan=free&Referer=https://cdnlivetv.tv/api/v1/channels/player/?name=CNN&code=us&user=cdnlivetv&plan=free
 
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://8333f72a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX09yaWdpbmFsc19ITFM/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=&ads.coppa=0&ads.custom=&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=&ads.us_privacy=1YN-&ads.wurl_channel=777&ads.wurl_name=Originals
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://amg00222-amg00222c4-amgplt0019.playout.now3.amagi.tv/playlist.m3u8?GdprConsent=0&app_bundle=&app_cat=IAB1-22&app_domain=&app_name=&app_store_url=&app_version=%7B%7BAppVersion%7D%7D&coppa=0&device_make=&device_model=&did=&dnt=&gdpr=0&ifa_type=&network_name=tinykernel&us_privacy=1YN-
 
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://f56779ab.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9CbG9vbWJlcmdPcmlnaW5hbHNfSExT/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=BloombergOriginals&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://amg00222-amg00222c4-amgplt0006.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://cc-vciaslqqwvdlr.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vciaslqqwvdlr/qtotttestair1/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=KRBB500044GP|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://amg00222-amg00222c4-amgplt0011.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://pb-gwj32tjkupdmt.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gwj32tjkupdmt/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.ads_cdn=ak&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=ak&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=USAJ30000041W&ads.ssai_vendor=SSSLIVE&ads.us_privacy=%7BUS_PRIVACY%7D&pb_type=pb-gwj32tjkupdmt_akamai|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://jmp2.uk/stvp-KRBB500044GP|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://amg00222-amg00222c4-amgplt0007.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://jmp2.uk/stvp-INBA5100022O4|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://jmp2.uk/stvp-USAJ30000041W|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-68fafe0dae4af1c7478fbeec.m3u8?X-Plex-Token=wm3vfBMuK6Du1PxJzr-f|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
-
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" language="en" group-title="JioTV / News",Bloomberg Originals
-https://a.tubi1.apollo.adrise.io/live/bloomberg-originals-8ethba.m3u8?ap.route=Gk112kGk0841iDyYJGXijCrNnjE&ap.pt=0&ap.furl=0&ap.playback_start_ts=1791499851&ap.sid=eb1f2085-cb92-42b4-a095-04cfded65a3a&ap.ss=15e528028d94cd8d0c42cdea195c008a&playback_start_ts=1791499851|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://2e69b85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0Jsb29tYmVyZ1RWUGx1cy0xX0hMUw/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=&ads.coppa=0&ads.custom=&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=&ads.us_privacy=1YN-&ads.wurl_channel=1682&ads.wurl_name=BloombergTVPlus
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://dbrb49pjoymg4.cloudfront.net/10001/99951533/hls/index.m3u8?includeAssetTags=true&ads.xumo_channelId=99951533&ads.xumo_streamId=99951533&ads.channelId=99951533&ads.channelName=Bloomberg&ads.caid=Bloomberg&ads.csid=xumo_web_Bloomberg_ssai&ads.genre=News%2CN&ads._fw_content_genre=News%2CN&ads._fw_coppa=0&ads.xumo_contentId=39&ads.xumo_contentName=Bloomberg&ads.xumo_providerId=39&ads.xumo_providerName=Bloomberg&ads.xumo_channelName=Bloomberg&ads._fw_h_x_country=US&ads._fw_ifa_type=aaid&ads._fw_did=fa2cecee-2770-40d1-a609-a0c070de5304&ads.os=web&ads._fw_is_lat=0&ads._fw_us_privacy=1---&ads._fw_content_language=en&ads._fw_deviceMake=Google&ads._fw_device_model=Chrome&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=play.xumo.com&ads.appName=xumo
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://6aedee7f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1jaF9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=BloombergTVPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://44cb7e25.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=BloombergTVPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://7d93a6d2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=BloombergTVPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://995e2d68.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9CbG9vbWJlcmdUVkZyYW5jZV9ITFM/playlist.m3u8?ads.wurl_channel=2029&ads.wurl_name=BloombergTVFrance&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=BloombergTVPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://4ca8b6ae.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=BloombergTVPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://pb-1t8ryyvyg0mim.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-1t8ryyvyg0mim/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.ads_cdn=ak&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=ak&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=USAJ3400011A8&ads.ssai_vendor=SSSLIVE&ads.us_privacy=%7BUS_PRIVACY%7D&pb_type=pb-1t8ryyvyg0mim_akamai|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://eeef4f4c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=BloombergTVPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://jmp2.uk/stvp-USAJ3400011A8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://jmp2.uk/stvp-ATBA3300018K1|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://jmp2.uk/stvp-CHBA3300018TD|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://jmp2.uk/stvp-DEBA3300027ZJ|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://jmp2.uk/stvp-ITBA3300025F5|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://jmp2.uk/stvp-GBBA3300033C2|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://jmp2.uk/stvp-FR1400004VF|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://jmp2.uk/stvp-ESBA3300024AJ|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://c.tubi1.apollo.adrise.io/live/bloomberg-tv-mrzhvx.m3u8?ap.playback_start_ts=1791499927&ap.sid=b99ec23f-4d49-4084-96f0-29b20832b1cd&ap.ss=8a17a730da673fa391463d792ad48ec0&playback_start_ts=1791499927&ap.route=Ovwcz4Bizln1Hbx06kn-fuKUFl0&ap.pt=0&ap.furl=0|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="bloomberg-tv" tvg-name="Bloomberg TV+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951533/168x168.png?type=color_onBlack" language="en" group-title="JioTV / News",Bloomberg TV+
-https://dbrb49pjoymg4.cloudfront.net/10001/99951533/hls/index.m3u8?includeAssetTags=true&ads.xumo_channelId=99951533&ads.xumo_streamId=99951533&ads.channelId=99951533&ads.channelName=Bloomberg&ads.caid=Bloomberg&ads.csid=xumo_web_Bloomberg_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=39&ads.xumo_contentName=Bloomberg&ads.xumo_providerId=39&ads.xumo_providerName=Bloomberg&ads.asnw=&ads.xumo_channelName=Bloomberg&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=21aeb31a-44bc-4293-b396-17098e451ef7&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-# ===== JioTV / Entertainment =====
-#EXTINF:-1 tvg-id="ntc-tv" tvg-name="NTC TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" language="ta" group-title="JioTV / Entertainment",NTC TV
-https://galaxyott.live/hls/ntv.m3u8
-
-#EXTINF:-1 tvg-id="moon-tv" tvg-name="Moon TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/moon-tv.png" language="en" group-title="JioTV / Entertainment",Moon TV
-https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8?hdnts=st%3D1791451710~exp%3D1791473310~acl%3D%21%2A%2Ffta%2Fmoontv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_167_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_167_-1~hmac%3Db46de537c571cf852996c2ae3fe0b124156407dafe4a3639420c80666a74dcd9|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="moon-tv" tvg-name="Moon TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/moon-tv.png" language="en" group-title="JioTV / Entertainment",Moon TV
-https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8?hdnts=st%3D1791496341~exp%3D1791517941~acl%3D%21%2A%2Ffta%2Fmoontv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_167_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_167_-1~hmac%3Deaca2fceb4ae54641c2c0b9c3d9ebbc66554fc76847eca4e66e43df4b8b8309f|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="pasand" tvg-name="PASAND" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pasand.png" language="en" group-title="JioTV / Entertainment",PASAND
-https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8?hdnts=st%3D1791451707~exp%3D1791473307~acl%3D%21%2A%2Ffta%2Fpasand%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_169_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_169_-1~hmac%3D480c341acf7daa7349a15b7609cee88470843736cc0579128630e4621bf610e5|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="pasand" tvg-name="PASAND" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pasand.png" language="en" group-title="JioTV / Entertainment",PASAND
-https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8?hdnts=st%3D1791496339~exp%3D1791517939~acl%3D%21%2A%2Ffta%2Fpasand%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_169_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_169_-1~hmac%3D343a270748c720d9daccd68040e441fd858d501a2d0d9d80767013b2d14993c3|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="peppers-tv" tvg-name="Peppers TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peppers-tv.png" language="en" group-title="JioTV / Entertainment",Peppers TV
-https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8?hdnts=st%3D1791451710~exp%3D1791473310~acl%3D%21%2A%2Ffta%2Fpeppers%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_113_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_113_-1~hmac%3Dff7acdaabca52b4d9d5285ff300928de6f4efa51ee9ae17ff6572f05553bc34a|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="peppers-tv" tvg-name="Peppers TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peppers-tv.png" language="en" group-title="JioTV / Entertainment",Peppers TV
-https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8?hdnts=st%3D1791496341~exp%3D1791517941~acl%3D%21%2A%2Ffta%2Fpeppers%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_113_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_113_-1~hmac%3D0fd9905ecaa5c3dc38e0ff3a9b9f9cd2a2444f2bf4f985610ab52e4226bd14fe|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="roja-tv" tvg-name="Roja TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png" language="ta" group-title="JioTV / Entertainment",Roja TV
-https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
-
-#EXTINF:-1 tvg-id="shemaroo-tv" tvg-name="Shemaroo TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" language="hi" group-title="JioTV / Entertainment",Shemaroo TV
-https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8?e=1784102595&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=2347b8a1b6f0ba558b12440528ea38a5|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="subin-tv" tvg-name="Subin TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" language="ta" group-title="JioTV / Entertainment",Subin TV
-https://stream.galaxyott.live/live/subintv/index.m3u8
-
-#EXTINF:-1 tvg-id="punjabi-shorts" tvg-name="Punjabi Shorts" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/punjabi-shorts.png" language="en" group-title="JioTV / Entertainment",Punjabi Shorts
-https://cc-m6zq76ijc87jw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m6zq76ijc87jw/punjabshort/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN400064VZ|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="punjabi-shorts" tvg-name="Punjabi Shorts" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/punjabi-shorts.png" language="en" group-title="JioTV / Entertainment",Punjabi Shorts
-https://vglivessai.akamaized.net/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8?hdnts=st%3D1791451705~exp%3D1791473305~acl%3D%21%2A%2Fin%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F27c3fd7a-b01f-4b00-ac03-557ac77acd47%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_328_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_328_-1~hmac%3Dc47c5e5a97b9f9166ab3144c03c4ffd2d9a54e20f97592d529e9a726948fd6fb|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="punjabi-shorts" tvg-name="Punjabi Shorts" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/punjabi-shorts.png" language="en" group-title="JioTV / Entertainment",Punjabi Shorts
-https://vglivessai.akamaized.net/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8?hdnts=st%3D1791496337~exp%3D1791517937~acl%3D%21%2A%2Fin%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F27c3fd7a-b01f-4b00-ac03-557ac77acd47%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_328_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_328_-1~hmac%3Df23546885a21e8e399f0c433d511c7b2c43d24f572d6036ea2469a342ebf639f|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="suriya-tv" tvg-name="Suriya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png" language="ta" group-title="JioTV / Entertainment",Suriya TV
-https://stream.ottlive.co.in/suryatvtamil/index.m3u8
-
-#EXTINF:-1 tvg-id="mazhavil-manorama" tvg-name="Mazhavil Manorama" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" language="ml" group-title="JioTV / Entertainment",Mazhavil Manorama
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1
-
-#EXTINF:-1 tvg-id="star-jalsha-hd" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" language="en" group-title="JioTV / Entertainment",Star Jalsha HD
-https://babu.khelalive.top/vids/streams/a00w/index.m3u8|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-
-#EXTINF:-1 tvg-id="sun-marathi" tvg-name="Sun Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" language="mr" group-title="JioTV / Entertainment",Sun Marathi
-http://103.172.29.30:9991/stream/channelid/1046416401?profile=mobarok/fllusonic
-
-#EXTINF:-1 tvg-id="sun-bangla" tvg-name="Sun Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" language="bn" group-title="JioTV / Entertainment",Sun Bangla
-http://27.124.71.27/Sun_Bangla/index.m3u8|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-
-# ===== JioTV / Faith =====
-#EXTINF:-1 tvg-id="pmc-telugu" tvg-name="PMC Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" language="te" group-title="JioTV / Faith",PMC Telugu
-https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
-
-#EXTINF:-1 tvg-id="sadhna" tvg-name="Sadhna" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna.png" language="hi" group-title="JioTV / Faith",Sadhna
-https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="shalom" tvg-name="Shalom" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shalom.png" language="ml" group-title="JioTV / Faith",Shalom
-https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
-
-#EXTINF:-1 tvg-id="shalom" tvg-name="Shalom" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shalom.png" language="ml" group-title="JioTV / Faith",Shalom
-https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
-
-#EXTINF:-1 tvg-id="shubh-tv" tvg-name="Shubh TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shubh_TV.png" language="hi" group-title="JioTV / Faith",Shubh TV
-https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
-
-#EXTINF:-1 tvg-id="shubhsandesh-tv" tvg-name="Shubhsandesh TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" language="hi" group-title="JioTV / Faith",Shubhsandesh TV
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-id="al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" language="en" group-title="JioTV / News",Al Jazeera
+https://hls.assadikb.workers.dev/?url=https://babu.khelalive.top/vids/ix/stream.m3u8?id=al-jazeera|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 
 # ===== JioTV / Kids =====
-#EXTINF:-1 tvg-id="cartoon-network-malayalam" tvg-name="Cartoon Network Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNMalayalam.png" language="en" group-title="JioTV / Kids",Cartoon Network Malayalam
-https://live-th10.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=ibruDlwcarLe4hNycOeEqeww9RLddOcBkRHP5OU3&secret=d85c5f96f376280a040d699f3ebde938&time=1771648839
+#EXTINF:-1 tvg-id="nick-junior" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" language="en" group-title="JioTV / Kids",Nick Junior
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
-#EXTINF:-1 tvg-id="cartoon-network-malayalam" tvg-name="Cartoon Network Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNMalayalam.png" language="en" group-title="JioTV / Kids",Cartoon Network Malayalam
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
-
-#EXTINF:-1 tvg-id="cartoon-network-malayalam" tvg-name="Cartoon Network Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNMalayalam.png" language="en" group-title="JioTV / Kids",Cartoon Network Malayalam
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="cartoon-network-malayalam" tvg-name="Cartoon Network Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNMalayalam.png" language="en" group-title="JioTV / Kids",Cartoon Network Malayalam
-http://209.61.12.77:9000/play/a090/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoon-network-malayalam" tvg-name="Cartoon Network Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNMalayalam.png" language="en" group-title="JioTV / Kids",Cartoon Network Malayalam
-https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=9563d33da06516fd262e9156a110a8d8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="nick-hindi" tvg-name="Nick Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" language="en" group-title="JioTV / Kids",Nick Hindi
+https://madanitv.assadikb.workers.dev/live.php?id=545&e=.m3u8|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 
 # ===== JioTV / Music =====
-#EXTINF:-1 tvg-id="songdew-tv" tvg-name="SongDew TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SongDew_TV.png" language="hi" group-title="JioTV / Music",SongDew TV
-https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="aaryaa-tv" tvg-name="Aaryaa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" language="ta" group-title="JioTV / Music",Aaryaa TV
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 
-#EXTINF:-1 tvg-id="stingray-2000s" tvg-name="Stingray 2000s" tvg-logo="https://epg.sam.stingray.com/IMAGE/232ADS/lg-direct/Assets_Channel-Tile_400x225.jpg" language="en" group-title="JioTV / Music",Stingray 2000s
-https://d1vadl6rgfxkg3.cloudfront.net/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/lotus_ose_232ads_montreal_lg/master.m3u8?ads.current_epoch=1791499763725&ads.pod_max_dur=121&ads.station_code=232ads&ads.station_name=Stingray2000s&ads.station_genre=music&ads.language=en&ads.production_quality=1&ads.iab_category=IAB1-6&ads.coppa=0&ads.content_genre=music&ads.rating=tv-g&ads.sstz=1791499763&ads.content_producer=Stingray2000s&ads.network_name=Stingray2000s&ads.channel_name=Stingray2000s&adProvider=MEDIATAILOR|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="dhoom-music-bangla" tvg-name="Dhoom Music Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhoom_Music_Bangla.png" language="en" group-title="JioTV / Music",Dhoom Music Bangla
+https://madanitv.assadikb.workers.dev/live.php?id=3006&e=.m3u8|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 
-#EXTINF:-1 tvg-id="vaanavil-tv" tvg-name="Vaanavil TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png" language="ta" group-title="JioTV / Music",Vaanavil TV
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="stingray-cozy-cafe-2" tvg-name="Stingray Cozy Cafe" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f8f717f72440fb688192f83faa71a8ab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260347726_CozyCafe_HUDlogo_centered_260x147.png" language="en" group-title="JioTV / Music",Stingray Cozy Cafe
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884593/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=StingrayCozyCafe&ads.csid=tcl2_us_StingrayCozyCafe_ssai&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_channelId=88884593&ads.xumo_channelName=StingrayCozyCafe&ads.xumo_contentId=4180&ads.xumo_contentName=StingrayCozyCafe&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=4180&ads.xumo_providerName=StingrayCozyCafe&ads.xumo_streamId=88884593&declaredCC1Language=en&includeAssetTags=true
 
-#EXTINF:-1 tvg-id="yrf-music" tvg-name="YRF Music" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" language="en" group-title="JioTV / Music",YRF Music
-https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="stingray-cozy-cafe-2" tvg-name="Stingray Cozy Cafe" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f8f717f72440fb688192f83faa71a8ab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260347726_CozyCafe_HUDlogo_centered_260x147.png" language="en" group-title="JioTV / Music",Stingray Cozy Cafe
+https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-#EXTINF:-1 tvg-id="ultimate-tv" tvg-name="Ultimate TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png" language="ta" group-title="JioTV / Music",Ultimate TV
-https://mumbai-edge.smartplaytv.in/utv/index.m3u8
+#EXTINF:-1 tvg-id="sangeet-marathi" tvg-name="Sangeet Marathi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700016S7_20240904T091815SQUARE.png" language="en" group-title="JioTV / Music",Sangeet Marathi
+https://amg00416-amg00416c6-samsung-in-3260.playouts.now.amagi.tv/playlist/amg00416-travelxp-sangeetmarathi-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-#EXTINF:-1 tvg-id="ultimate-tv" tvg-name="Ultimate TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png" language="ta" group-title="JioTV / Music",Ultimate TV
-https://stream.ottlive.co.in/utvtamil/index.m3u8
-
-#EXTINF:-1 tvg-id="insync" tvg-name="insync" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/insync.png" language="en" group-title="JioTV / Music",insync
-https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8?hdnts=st%3D1791451718~exp%3D1791473318~acl%3D%21%2A%2Ffta%2Finsync%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_126_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_126_-1~hmac%3Df91b906293a5eb787b5b4a152cc070fdc21f2b2438f08fbafa611e4e854bb359|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="insync" tvg-name="insync" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/insync.png" language="en" group-title="JioTV / Music",insync
-https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8?hdnts=st%3D1791496345~exp%3D1791517945~acl%3D%21%2A%2Ffta%2Finsync%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_126_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_126_-1~hmac%3Db7a040685bb11ceb535d7420e62e9a7097f7f705661ccc323b88c05ea192804d|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="sangeet-marathi" tvg-name="Sangeet Marathi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700016S7_20240904T091815SQUARE.png" language="en" group-title="JioTV / Music",Sangeet Marathi
+https://jmp2.uk/stvp-INBD4700016S7|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 #EXTINF:-1 tvg-id="tarang-music" tvg-name="Tarang Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tarang_Music.png" language="or" group-title="JioTV / Music",Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 
-# ===== JioTV / Regional =====
-#EXTINF:-1 tvg-id="news18-kerala-2" tvg-name="News18 Kerala" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18 Kerala.png" language="en" group-title="JioTV / Regional",News18 Kerala
-https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="sangeet-bhojpuri" tvg-name="Sangeet Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700017SL_20240710T022253SQUARE.png" language="en" group-title="JioTV / Music",Sangeet Bhojpuri
+https://amg00416-amg00416c7-samsung-in-3262.playouts.now.amagi.tv/playlist/amg00416-travelxp-sangeetbhojpuri-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-#EXTINF:-1 tvg-id="madha-tv" tvg-name="Madha TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/madha-tv.png" language="en" group-title="JioTV / Regional",Madha TV
-https://yuppnimresmum.akamaized.net/120723/smil:madhatv1.smil/playlist.m3u8?hdnts=st%3D1791496371~exp%3D1791517971~acl%3D%21%2A%2F120723%2Fsmil%3Amadhatv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_215_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_215_-1~hmac%3D4e0b7a731e6d372c808a8b02b15d64989d61f559fa2b6f6804565665de697ecb|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="sangeet-bhojpuri" tvg-name="Sangeet Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700017SL_20240710T022253SQUARE.png" language="en" group-title="JioTV / Music",Sangeet Bhojpuri
+https://jmp2.uk/stvp-INBD4700017SL|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-#EXTINF:-1 tvg-id="rongeen-tv" tvg-name="Rongeen TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" language="en" group-title="JioTV / Regional",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="sangeet-bhojpuri" tvg-name="Sangeet Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700017SL_20240710T022253SQUARE.png" language="en" group-title="JioTV / Music",Sangeet Bhojpuri
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/main.mpd
 
-#EXTINF:-1 tvg-id="rongeen-tv" tvg-name="Rongeen TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" language="en" group-title="JioTV / Regional",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="sangeet-bhojpuri" tvg-name="Sangeet Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700017SL_20240710T022253SQUARE.png" language="en" group-title="JioTV / Music",Sangeet Bhojpuri
+https://madanitv.assadikb.workers.dev/live.php?id=741&e=.m3u8|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 
-#EXTINF:-1 tvg-id="b4u-bhojpuri" tvg-name="B4U Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000307N_20260121T010753SQUARE.png" language="en" group-title="JioTV / Regional",B4U Bhojpuri
-https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN39000307N|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/mtv-hd-plus-in.png" language="en" group-title="JioTV / Music",MTV
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
-#EXTINF:-1 tvg-id="zee-24-taas" tvg-name="Zee 24 Taas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20250612T083837SQUARE.png" language="en" group-title="JioTV / Regional",Zee 24 Taas
-https://amg01448-samsungin-zee24taas-samsungin-ad-sg.amagi.tv/playlist/amg01448-samsungin-zee24taas-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/mtv-hd-plus-in.png" language="en" group-title="JioTV / Music",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="zee-24-taas" tvg-name="Zee 24 Taas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20250612T083837SQUARE.png" language="en" group-title="JioTV / Regional",Zee 24 Taas
-https://jmp2.uk/stvp-INBD400001CP|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/mtv-hd-plus-in.png" language="en" group-title="JioTV / Music",MTV
+http://198.58.104.90:8989/mtv/index.m3u8
 
-#EXTINF:-1 tvg-id="zee-24-taas" tvg-name="Zee 24 Taas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20250612T083837SQUARE.png" language="en" group-title="JioTV / Regional",Zee 24 Taas
-https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/mtv-hd-plus-in.png" language="en" group-title="JioTV / Music",MTV
+https://tvsen6.aynaott.com/mtv/index.m3u8?e=1784102610&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b99f4b905260714794250d1410a936a2|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-#EXTINF:-1 tvg-id="zee-24-ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400003GE_20250612T083828SQUARE.png" language="en" group-title="JioTV / Regional",Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+# ===== JioTV / Local News =====
+#EXTINF:-1 tvg-id="abc-news" tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" language="en" group-title="JioTV / Local News",ABC NEWS
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
-#EXTINF:-1 tvg-id="zee-24-ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400003GE_20250612T083828SQUARE.png" language="en" group-title="JioTV / Regional",Zee 24 Ghanta
-https://amg01448-samsungin-zee24ghanta-samsungin-ad-sc.amagi.tv/playlist/amg01448-samsungin-zee24ghanta-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="abc-news" tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" language="en" group-title="JioTV / Local News",ABC NEWS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/7c7a6abe4d604faca4d6b91f6567558f/index.m3u8?hdnea=st=1791518565~exp=1791519465~acl=/*~hmac=69a43cf428801143f215fe6aec5c1547bfca4585ac32b70d9f0561602c614aac
 
-#EXTINF:-1 tvg-id="zee-24-ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400003GE_20250612T083828SQUARE.png" language="en" group-title="JioTV / Regional",Zee 24 Ghanta
-https://jmp2.uk/stvp-INBD400003GE|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="abc-news" tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" language="en" group-title="JioTV / Local News",ABC NEWS
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7bf3d9c60704e6/index.mpd
 
-# ===== JioTV / Lifestyle =====
-#EXTINF:-1 tvg-id="cvr-health" tvg-name="CVR Health" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cvr-health.png" language="en" group-title="JioTV / Lifestyle",CVR Health
-https://yuppparoriglin.akamaized.net/181224/smil:cvrhealth.smil/playlist.m3u8?hdnts=st%3D1791496390~exp%3D1791517990~acl%3D%21%2A%2F181224%2Fsmil%3Acvrhealth.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_286_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_286_-1~hmac%3Da2a9e6de80092ff0829349e972b9acef8355d44b86d3753fae44f57ff3b3a4cc|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="abc-news" tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" language="en" group-title="JioTV / Local News",ABC NEWS
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-#EXTINF:-1 tvg-id="tlc-english" tvg-name="TLC English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLCEnglish.png" language="en" group-title="JioTV / Lifestyle",TLC English
-https://web.opendrive.com/api/v1/download/file.json/ODRfNzIxOTE5NjVf?inline=1
-
-#EXTINF:-1 tvg-id="ayush-tv" tvg-name="Ayush TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lrvzwz.png" language="en" group-title="JioTV / Lifestyle",Ayush TV
-https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-
-#EXTINF:-1 tvg-id="ayush-tv" tvg-name="Ayush TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lrvzwz.png" language="en" group-title="JioTV / Lifestyle",Ayush TV
-http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8?hdnts=st%3D1791451785~exp%3D1791473385~acl%3D%21%2A%2Ffta%2Fayushtv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_234_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_234_-1~hmac%3De7e68804055447db74c62f8f458c54f119d0253a3a52e43b4c8d41b1a56097a5|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="ayush-tv" tvg-name="Ayush TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lrvzwz.png" language="en" group-title="JioTV / Lifestyle",Ayush TV
-http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8?hdnts=st%3D1791496390~exp%3D1791517990~acl%3D%21%2A%2Ffta%2Fayushtv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_234_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_234_-1~hmac%3De15c421155dc07630583a0df8930f47849a5b774da0cfcc945a55aebd0781ffd|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-# ===== JioTV / Spiritual =====
-#EXTINF:-1 tvg-id="divya-tv" tvg-name="Divya TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dluhyb.png" language="en" group-title="JioTV / Spiritual",Divya TV
-https://vg-pitaaratvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-734074/playlist.m3u8?hdnts=st%3D1791451731~exp%3D1791473331~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-734074%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_8_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_8_-1~hmac%3De8158418527e2a31a125376a38d27e7682eeee0ae0b26d3f8bcfcdcfc4508556|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="divya-tv" tvg-name="Divya TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dluhyb.png" language="en" group-title="JioTV / Spiritual",Divya TV
-https://vg-pitaaratvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-734074/playlist.m3u8?hdnts=st%3D1791496355~exp%3D1791517955~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-734074%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_8_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_8_-1~hmac%3D38f84b0b86d2840dd101684eefb60b8311f214f521f8b86a973e65eb9bc04c36|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="disha-tv" tvg-name="Disha TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/disha-tv.png" language="en" group-title="JioTV / Spiritual",Disha TV
-https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8?hdnts=st%3D1791451735~exp%3D1791473335~acl%3D%21%2A%2Ffta%2Fdishatv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_125_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_125_-1~hmac%3D7518be0c35717ec5213f363a94d37ca321ccc9fbd600bd3b75e7b692d7f302e8|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="disha-tv" tvg-name="Disha TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/disha-tv.png" language="en" group-title="JioTV / Spiritual",Disha TV
-https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8?hdnts=st%3D1791496358~exp%3D1791517958~acl%3D%21%2A%2Ffta%2Fdishatv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_125_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_125_-1~hmac%3De9102962e7b58f66365029fedc0421810d639ba0b2cfad6609e5407c0c5552a2|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="anand-tv" tvg-name="Anand TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/anand-tv.png" language="en" group-title="JioTV / Spiritual",Anand TV
-https://live.legitpro.co.in/anandtv/index.m3u8
-
-#EXTINF:-1 tvg-id="anand-tv" tvg-name="Anand TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/anand-tv.png" language="en" group-title="JioTV / Spiritual",Anand TV
-https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-
-#EXTINF:-1 tvg-id="anand-tv" tvg-name="Anand TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/anand-tv.png" language="en" group-title="JioTV / Spiritual",Anand TV
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc87c6ce-e887-442b-beaf-67753925f0d9/index.m3u8?hdnts=st%3D1791451739~exp%3D1791473339~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fbc87c6ce-e887-442b-beaf-67753925f0d9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_353_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_353_-1~hmac%3D5cfca9fa736a5ef04189d1aee7742102d66346d5e8ad514715ca495e852a9564|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="anand-tv" tvg-name="Anand TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/anand-tv.png" language="en" group-title="JioTV / Spiritual",Anand TV
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc87c6ce-e887-442b-beaf-67753925f0d9/index.m3u8?hdnts=st%3D1791496359~exp%3D1791517959~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fbc87c6ce-e887-442b-beaf-67753925f0d9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_353_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_353_-1~hmac%3D4ec17770233fa12164ef84f10343acd3573f3fe7248a5dbf1f22b471566a9758|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="nambikkai" tvg-name="Nambikkai" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nambikkai.png" language="en" group-title="JioTV / Spiritual",Nambikkai
-https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8?hdnts=st%3D1791451760~exp%3D1791473360~acl%3D%21%2A%2Ffta%2Fnambikkaitv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_285_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_285_-1~hmac%3D2f00f1a5b4f65ee34fc0e6de8c6907b5f01457ff0cc0d2b781b0e6a46a51b1fa|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="nambikkai" tvg-name="Nambikkai" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nambikkai.png" language="en" group-title="JioTV / Spiritual",Nambikkai
-https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8?hdnts=st%3D1791496374~exp%3D1791517974~acl%3D%21%2A%2Ffta%2Fnambikkaitv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_285_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_285_-1~hmac%3D02ff1f45a0548669291d37a2a2cd61bc17ce9d768aa8818e14870de00c145521|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="sharnam-tv" tvg-name="Sharnam TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sharnam-tv.png" language="en" group-title="JioTV / Spiritual",Sharnam TV
-https://d1msejlow1t3l4.cloudfront.net/fta/sharanamtv/playlist.m3u8?hdnts=st%3D1791451733~exp%3D1791473333~acl%3D%21%2A%2Ffta%2Fsharanamtv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_124_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_124_-1~hmac%3D6ac9c00e0fcd0c6d7ce6fc52b8fedd674135b06affcfee09f57c0d92fd6ee437|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="sharnam-tv" tvg-name="Sharnam TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sharnam-tv.png" language="en" group-title="JioTV / Spiritual",Sharnam TV
-https://d1msejlow1t3l4.cloudfront.net/fta/sharanamtv/playlist.m3u8?hdnts=st%3D1791496356~exp%3D1791517956~acl%3D%21%2A%2Ffta%2Fsharanamtv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_124_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_124_-1~hmac%3Dcb296a4c8622d3728ee46b48127e3fe43a37a3eddb3c9d916de5c3eb95985f4f|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="svbc" tvg-name="SVBC" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/svbc.png" language="en" group-title="JioTV / Spiritual",SVBC
-https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="svbc" tvg-name="SVBC" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/svbc.png" language="en" group-title="JioTV / Spiritual",SVBC
-https://yuppnimresmum.akamaized.net/110322/svbc/playlist.m3u8?hdnts=st%3D1791496364~exp%3D1791517964~acl%3D%21%2A%2F110322%2Fsvbc%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_99_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_99_-1~hmac%3D679d855906b90e72e1e71a271d3a07f3125777a494f6920ea3b43fee683cf67c|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="sri-naga-sai-mandir" tvg-name="Sri Naga Sai Mandir" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-naga-sai-mandir.png" language="en" group-title="JioTV / Spiritual",Sri Naga Sai Mandir
-https://msleurope9.akamaized.net/saibaba/livekovai/index.m3u8?hdnts=st%3D1791451755~exp%3D1791473355~acl%3D%21%2A%2Fsaibaba%2Flivekovai%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_299_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.242.197.242_yuppfast_2_channel_299_-1~hmac%3D8d81ec5ae8dd53965754cca50a92c3412760700b3586e801777e971b7bab33d0|Referer=https://pixelsport.tv/&User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="sri-naga-sai-mandir" tvg-name="Sri Naga Sai Mandir" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-naga-sai-mandir.png" language="en" group-title="JioTV / Spiritual",Sri Naga Sai Mandir
-https://msleurope9.akamaized.net/saibaba/livekovai/index.m3u8?hdnts=st%3D1791496370~exp%3D1791517970~acl%3D%21%2A%2Fsaibaba%2Flivekovai%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_299_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_299_-1~hmac%3Db2127a1b4297c9511c244c8d67013140793354ac9ca0c02029f80432be62ca5d|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-# ===== JioTV / Devotional =====
-#EXTINF:-1 tvg-id="peace-of-mind" tvg-name="Peace of Mind" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peace-of-mind.png" language="en" group-title="JioTV / Devotional",Peace of Mind
-https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st%3D1791496360~exp%3D1791517960~acl%3D%21%2A%2F181224%2Fsmil%3Apeaceofmind.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_206_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_206_-1~hmac%3Ddfad81282a80f5c8bea43869f96de42f4d14bb6a0438485c643f50d9c80510bc|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="bhakti-tv" tvg-name="Bhakti TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bhakti-tv.png" language="en" group-title="JioTV / Devotional",Bhakti TV
-https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?hdnts=st%3D1791496363~exp%3D1791517963~acl%3D%21%2A%2F240122%2Fbhakti%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_110_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.86_yuppfast_2_channel_110_-1~hmac%3D618058d2cc7b086966e0e28ad0b7f773fb44872359f450b903cbed16f8d2ad38|User-Agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-
-# ===== JioTV / Nature =====
-#EXTINF:-1 tvg-id="inwild" tvg-name="INWILD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477067793caRN2oATO-632x395-nU5VHeEj.png" language="en" group-title="JioTV / Nature",INWILD
-https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="inwild" tvg-name="INWILD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477067793caRN2oATO-632x395-nU5VHeEj.png" language="en" group-title="JioTV / Nature",INWILD
-https://amg00861-terninternation-inwild-samsungin-sskuo.amagi.tv/playlist/amg00861-terninternation-inwild-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="inwild" tvg-name="INWILD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477067793caRN2oATO-632x395-nU5VHeEj.png" language="en" group-title="JioTV / Nature",INWILD
-https://jmp2.uk/stvp-INBA4900007JX|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="inwild" tvg-name="INWILD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477067793caRN2oATO-632x395-nU5VHeEj.png" language="en" group-title="JioTV / Nature",INWILD
-https://jmp2.uk/stvp-GBBA220000751|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="inwild" tvg-name="INWILD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477067793caRN2oATO-632x395-nU5VHeEj.png" language="en" group-title="JioTV / Nature",INWILD
-https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="inwild" tvg-name="INWILD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477067793caRN2oATO-632x395-nU5VHeEj.png" language="en" group-title="JioTV / Nature",INWILD
-https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="inwild" tvg-name="INWILD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477067793caRN2oATO-632x395-nU5VHeEj.png" language="en" group-title="JioTV / Nature",INWILD
-https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="inwild" tvg-name="INWILD" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477067793caRN2oATO-632x395-nU5VHeEj.png" language="en" group-title="JioTV / Nature",INWILD
-https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="abc-news" tvg-name="ABC NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-news-us.png" language="en" group-title="JioTV / Local News",ABC NEWS
+https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1784102541&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=52b8ba78cc6aa66f187f91e92fe8f52c|Referer=https://pixelsport.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 # GDLTV-JIOTV-END
